@@ -1,0 +1,23 @@
+{
+    "target_program": "C:/Program Files (x86)/Seewo/EasiNote5/swenlauncher/swenlauncher.exe",
+    "launch_interval": 10000,
+    "exit_interval": 10000,
+    "layout": {
+        "height": 900,
+        "width": 1600,
+        "offset_x": -3,
+        "offset_y": -3,
+        "force_topmost": true
+    },
+    "media": {
+        "file": "video.mp4",
+        "speed": 2.5,
+        "reverse_color": false,
+        "addictive_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "cmd_preprocess": ""
+}
